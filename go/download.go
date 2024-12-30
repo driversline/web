@@ -9,7 +9,6 @@ import (
     "os"
     "path/filepath"
     "strings"
-
     "golang.org/x/net/html"
 )
 
