@@ -1,5 +1,5 @@
 **`python / availible.py`**
 > Dependencies: `Requests`
 
-> **`go / download.go`**
+**`go / download.go`**
 > Dependencies: `go`
